@@ -1,0 +1,157 @@
+
+
+li { 
+        list-style: none;
+        margin: 0%;
+        display: inline-block;
+        font-size: 20px;
+        padding: 0%;
+        color: #ffffff;
+               
+        }
+
+.bar    {
+        background: black;
+        width: auto;
+        border: 1px solid none;
+        text-align: center;
+        padding: 11px;
+        }
+
+.bar ul li      {
+                width:150px;
+                display: inline-block;
+                margin: 10px auto;
+                margin-bottom: 15px;
+                
+                text-align:center;
+                }
+
+.bar ul li a    {
+                text-decoration: none;
+                color: white;
+                }
+
+.bar ul li:hover{background-color: red;}
+.bar ul li a:hover{ color:white;} 
+
+
+
+
+.menu-gal{
+
+
+        display: inline-block;
+        
+       
+
+}
+
+.menu-gallery {
+
+        float: left;
+        margin: 30px 3.3% 40px 0;
+        position: static;
+        width: 26.0%;
+        background-color: #f4f4f4;
+        border-bottom: 4px solid #e4e4e4;
+        border-bottom-right-radius: 30px;
+        
+    }
+
+
+
+div.menu-gallery:hover {
+  border: 1px solid red;
+}
+
+div.menu-gallery img {
+
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+        padding-top: 10px;
+        text-align: center;
+      }
+
+.desc {
+        padding-top: 15px;
+        text-align: center;
+      }
+
+/*
+div.sign-up {
+        margin-top: 300px;
+}
+*/
+
+
+img { width: 230%; }
+        
+h1 { margin: 15px  0; }
+        
+h3      { 
+        margin: 0;
+        font-weight: 100;
+        }
+
+        
+.card   {
+        
+        background-color: #110808be;
+        border-radius: 15px;
+        margin: 0 auto;
+        margin-top: 150px;
+        padding-right: 25px;
+        padding-top: 20px;
+        width: 550px;
+        text-align: center;
+        box-shadow: rgba(0,0,0, 0.1) 20px 20px 20px;
+        border:1px solid #aaa;
+                        
+        }
+        
+.card .avatar   {
+        
+        box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
+        width: 100px;
+        border-radius:  50%;
+        margin-top: -50px;
+                }
+        
+.del-apps       {
+        
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        
+                }
+        
+.del-apps li    {
+
+        
+        width: 30px;
+        display: inline-block;
+        padding: 40px 40px;
+                }
+        
+.del-apps li a img:hover {
+
+        opacity: 0.5;
+        transition: opacity ease-in-out 0.1s;
+        
+        }
+
+
+
+.sign-up        {
+                padding-top:10px;
+                padding-bottom: 10px;
+                text-align: center;
+                background-color: rgba(216, 189, 35, 0.589);
+                margin-top: 300px;
+                margin-bottom: 1px;
+                    
+                } 
